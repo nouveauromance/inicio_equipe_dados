@@ -14,13 +14,15 @@ Os notebooks deste repositório seguem uma abordagem didática baseada em exempl
 * Preparar a base necessária para análise de dados
 * Criar um material compartilhado de aprendizado da equipe
 
-## 📚 O que você vai encontrar
+## 📚 Índice de Notebooks
 
-* Notebooks organizados por nível de aprendizado
-* Explicações comentadas linha a linha
-* Exercícios práticos
-* Mini projetos guiados
-* Exemplos voltados ao contexto de dados
+| # | Notebook | Descrição |
+|---|----------|-----------|
+| 00 | [Documentando o Notebook](00_documentando_notebook.ipynb) | Boas práticas de documentação com Markdown |
+| 01 | [Introdução à Ciência de Dados](01_introducao_ciencia_de_dados.ipynb) | O que é ciência de dados e por onde começar |
+| 02 | [Aprendendo Python](02_aprendendo_python.ipynb) | Fundamentos da linguagem Python do zero |
+| 03 | [Estatística e Python](03_estatistica_e_python.ipynb) | Conceitos de estatística aplicados com Python |
+| 04 | [Análise Exploratória de Dados](04_analise_exploratória_de_dados.ipynb) | EDA na prática com datasets reais |
 
 ## 👩‍💻 Público-alvo
 
@@ -34,9 +36,16 @@ Este material é destinado principalmente a:
 ## 🚀 Como utilizar
 
 1. Clone o repositório
-2. Abra os notebooks em Jupyter Notebook ou JupyterLab
-3. Execute as células em ordem
-4. Teste modificações e experimente novas ideias
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Abra os notebooks em Jupyter Notebook ou JupyterLab:
+   ```bash
+   jupyter lab
+   ```
+4. Execute as células em ordem
+5. Teste modificações e experimente novas ideias
 
 O aprendizado aqui é construído de forma incremental: cada notebook prepara o terreno para o próximo.
 
