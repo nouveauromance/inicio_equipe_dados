@@ -23,6 +23,7 @@ Os notebooks deste repositório seguem uma abordagem didática baseada em exempl
 | 02 | [Aprendendo Python](02_aprendendo_python.ipynb) | Fundamentos da linguagem Python do zero |
 | 03 | [Estatística e Python](03_estatistica_e_python.ipynb) | Conceitos de estatística aplicados com Python |
 | 04 | [Análise Exploratória de Dados](04_analise_exploratória_de_dados.ipynb) | EDA na prática com datasets reais |
+| 05 | [Visualização Avançada](05_visualizacao_avancada.ipynb) | Gráficos com Seaborn e Plotly (histograma, boxplot, scatter e mais) |
 
 ## 👩‍💻 Público-alvo
 
