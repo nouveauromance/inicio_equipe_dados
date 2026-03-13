@@ -24,7 +24,10 @@ Os notebooks deste repositório seguem uma abordagem didática baseada em exempl
 | 03 | [Estatística e Python](03_estatistica_e_python.ipynb) | Conceitos de estatística aplicados com Python |
 | 04 | [Análise Exploratória de Dados](04_analise_exploratória_de_dados.ipynb) | EDA na prática com datasets reais |
 | 05 | [Visualização Avançada](05_visualizacao_avancada.ipynb) | Gráficos com Seaborn e Plotly (histograma, boxplot, scatter e mais) |
-| 06 | [Introdução ao Machine Learning](06_introducao_ML.ipynb) | Conceitos de ML, tipos de aprendizado, modelos principais e boas práticas |
+| 06 | [Introdução ao Machine Learning](06_introducao_ML.ipynb) | Conceitos teóricos de ML, tipos de aprendizado e modelos principais |
+| 07 | [Aprendizado Supervisionado Prático](07_aprendizado_supervisionado.ipynb) | Implementação prática de Regressão e Classificação com scikit-learn |
+| 08 | [Aprendizado Não Supervisionado Prático](08_aprendizado_nao_supervisionado.ipynb) | Clusterização com K-Means e Redução de Dimensionalidade com PCA |
+| 09 | [Aprendizado por Reforço](09_aprendizado_por_reforco.ipynb) | Q-Learning do zero treinando um agente a jogar em um labirinto virtual |
 
 ## 👩‍💻 Público-alvo
 
